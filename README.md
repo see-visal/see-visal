@@ -6,12 +6,12 @@ I am a **Full-Stack Developer** dedicated to building tools that make a differen
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **CamboStack**
-- 🌱 I’m constantly learning **Advanced Microservices & Cloud Native Tech**
+- 🌱 I’m constantly learning **Advanced Microservices**
 - 💬 Ask me about **Java, Spring Boot, React, and Next.js**
 - 📫 How to reach me: **soeurn.visal@example.com**
 - ⚡ Fun fact: **I love turning complex problems into simple, beautiful solutions.**
-
+---
+ **"Learn more, Earn less, Walk until UP."**
 ---
 
 ## 🛠️ Tech Stack
@@ -39,15 +39,6 @@ I am a **Full-Stack Developer** dedicated to building tools that make a differen
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### 🏆 [CamboStack](https://github.com/see-visal)
-**Description:** A collaborative platform where Cambodian developers, tech enthusiasts, and mentors can ask/answer questions, share projects, and grow together. Built with passion by ISTAD students with mentor support.
-
-**Tech Stack:** Next.js, Spring Boot, PostgreSQL, Tailwind CSS
 
 ---
 
