@@ -17,7 +17,7 @@ I am a **Full-Stack Developer**
 
 ---
 
-> **"Learn more, Earn less, Walk until UP."**
+> **"Learn more, Earn less, keep going until UP."**
 
 ---
 
