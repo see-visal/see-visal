@@ -1,6 +1,6 @@
 # Hi there, I'm Soeurn Visal! 👋
 
-I am a **Full-Stack Developer**  
+I am a **Software  Developer**  
 ---
 
 ## 🚀 About Me
