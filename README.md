@@ -10,10 +10,10 @@
 
 ## About me 
 
-- 👨‍💻 I'm a **Software Developer** who loves turning complex problems into simple, beautiful solutions.
-- 🌱 I'm constantly learning **Advanced Microservices**.
-- 💬 Ask me about **Java, Spring Boot, React, and Next.js**.
-- 📫 Reach me at **[visalsoeurn9@gmail.com](mailto:visalsoeurn9@gmail.com)**.
+👨‍💻 I'm a **Software Developer** who loves turning complex problems into simple, beautiful solutions.<br />
+🌱 I'm constantly learning **Advanced Microservices**.<br />
+💬 Ask me about **Java, Spring Boot, React, and Next.js**.<br />
+📫 Reach me at **[visalsoeurn9@gmail.com](mailto:visalsoeurn9@gmail.com)**.
 
 ## Mobile App Developer 📱
 
@@ -21,15 +21,15 @@ I’m currently focused on **research and development in cross-platform mobile a
 
 ### Android
 
-- Kotlin
-- Jetpack Compose
-- Android Studio
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 ### iOS
 
-- Swift
-- SwiftUI
-- Xcode
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 
 > **“Learn more, Earn less, keep going until UP.”**
 
