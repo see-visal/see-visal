@@ -15,6 +15,22 @@
 - 💬 Ask me about **Java, Spring Boot, React, and Next.js**.
 - 📫 Reach me at **[visalsoeurn9@gmail.com](mailto:visalsoeurn9@gmail.com)**.
 
+## Mobile App Developer 📱
+
+I’m currently focused on **research and development in cross-platform mobile applications** for both **Android and iOS**.
+
+### Android
+
+- Kotlin
+- Jetpack Compose
+- Android Studio
+
+### iOS
+
+- Swift
+- SwiftUI
+- Xcode
+
 > **“Learn more, Earn less, keep going until UP.”**
 
 ## Tech stack 🛠️
