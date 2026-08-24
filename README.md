@@ -1,48 +1,90 @@
-# Hi there, I'm Soeurn Visal! 👋
+<div align="center">
 
-I am a **Software  Developer**  
----
+![Soeurn Visal — Software Developer](./assets/header.svg)
 
-## 🚀 About Me
+### Connect with me 👋
 
-- I’m constantly learning **Advanced Microservices**
-- Ask me about **Java, Spring Boot, React, and Next.js**
-- Fun fact: **I love turning complex problems into simple, beautiful solutions**
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://www.soeurnvisal.tech)
+[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/see-visal)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-0d1117?style=for-the-badge&logo=telegram&logoColor=2AABEE)](https://t.me/SoeurnVisal8)
+[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:visalsoeurn9@gmail.com)
 
-### 📫 Contact Me
-- 📧 Email: [visalsoeurn9@gmail.com](mailto:visalsoeurn9@gmail.com)
-- 💻 GitHub: https://github.com/see-visal
-- 💬 Telegram: https://t.me/SoeurnVisal8
-- 🌐 Portfolio: https://www.soeurnvisal.tech
+</div>
 
----
+## About me 😊
 
-> **"Learn more, Earn less, keep going until UP."**
+- 👨‍💻 I'm a **Software Developer** who loves turning complex problems into simple, beautiful solutions.
+- 🌱 I'm constantly learning **Advanced Microservices**.
+- 💬 Ask me about **Java, Spring Boot, React, and Next.js**.
+- 📫 Reach me at **[visalsoeurn9@gmail.com](mailto:visalsoeurn9@gmail.com)**.
 
----
+> **“Learn more, Earn less, keep going until UP.”**
 
-## 🛠️ Tech Stack
+## Tech stack 🛠️
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<details open>
+<summary><b>Frontend</b></summary>
+<br />
 
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### 🗄️ Database
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+</details>
 
-### 🚀 DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+<details open>
+<summary><b>Backend</b></summary>
+<br />
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Databases</b></summary>
+<br />
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>DevOps & tools</b></summary>
+<br />
+
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+</details>
+
+## GitHub stats 📊
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=see-visal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&ring_color=58a6ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=see-visal&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=8250df&ring_color=0969da" />
+  <img height="170" alt="Soeurn Visal's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=see-visal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&ring_color=58a6ff" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=see-visal&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=see-visal&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=1f2328" />
+  <img height="170" alt="Soeurn Visal's most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=see-visal&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=see-visal&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=bc8cff&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=see-visal&bg_color=ffffff&color=1f2328&line=0969da&point=8250df&area=true&hide_border=true" />
+  <img width="100%" alt="Soeurn Visal's contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=see-visal&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=bc8cff&area=true&hide_border=true" />
+</picture>
+
+</div>

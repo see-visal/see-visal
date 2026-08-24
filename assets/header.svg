@@ -1,0 +1,86 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Soeurn Visal, Software Developer</title>
+  <desc id="description">A dark futuristic banner with blue and violet glows, a perspective grid, and the name Soeurn Visal.</desc>
+  <defs>
+    <linearGradient id="background" x1="68" y1="24" x2="1134" y2="346" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071426" />
+      <stop offset="0.48" stop-color="#111B40" />
+      <stop offset="1" stop-color="#1F0A3C" />
+    </linearGradient>
+    <linearGradient id="accent" x1="208" y1="305" x2="1008" y2="119" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F81F7" />
+      <stop offset="0.52" stop-color="#A371F7" />
+      <stop offset="1" stop-color="#F778BA" />
+    </linearGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientTransform="translate(257 144) rotate(28) scale(325 242)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F81F7" stop-opacity="0.34" />
+      <stop offset="1" stop-color="#2F81F7" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="pinkGlow" cx="0" cy="0" r="1" gradientTransform="translate(999 87) rotate(153) scale(326 232)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D946EF" stop-opacity="0.32" />
+      <stop offset="1" stop-color="#D946EF" stop-opacity="0" />
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <clipPath id="roundClip">
+      <rect width="1200" height="360" rx="18" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#roundClip)">
+    <rect width="1200" height="360" fill="url(#background)" />
+    <rect width="1200" height="360" fill="url(#blueGlow)" />
+    <rect width="1200" height="360" fill="url(#pinkGlow)" />
+
+    <g opacity="0.22" stroke="url(#accent)">
+      <path d="M0 282H1200" />
+      <path d="M0 302H1200" />
+      <path d="M0 324H1200" />
+      <path d="M0 348H1200" />
+      <path d="M600 257L600 360" />
+      <path d="M510 257L440 360" />
+      <path d="M420 257L280 360" />
+      <path d="M330 257L120 360" />
+      <path d="M690 257L760 360" />
+      <path d="M780 257L920 360" />
+      <path d="M870 257L1080 360" />
+    </g>
+
+    <g opacity="0.34" fill="#8B9BC8">
+      <circle cx="68" cy="66" r="2" />
+      <circle cx="152" cy="118" r="1.5" />
+      <circle cx="238" cy="54" r="2" />
+      <circle cx="1010" cy="184" r="1.5" />
+      <circle cx="1090" cy="74" r="2" />
+      <circle cx="1148" cy="142" r="1.5" />
+      <circle cx="934" cy="44" r="1.5" />
+    </g>
+
+    <g transform="translate(98 115)" opacity="0.82" stroke="url(#accent)" stroke-width="3">
+      <path d="M0 38L31 7H83L114 38L83 69H31L0 38Z" />
+      <path d="M31 7L57 38L83 7M31 69L57 38L83 69" />
+      <circle cx="57" cy="38" r="10" fill="#0D1931" />
+    </g>
+
+    <g transform="translate(984 92)" opacity="0.78">
+      <circle cx="55" cy="55" r="45" stroke="url(#accent)" stroke-width="3" />
+      <ellipse cx="55" cy="55" rx="82" ry="19" transform="rotate(-17 55 55)" stroke="url(#accent)" stroke-width="3" />
+      <circle cx="55" cy="55" r="30" fill="#A371F7" fill-opacity="0.1" />
+    </g>
+
+    <g text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+      <text x="600" y="143" fill="#F0F6FC" font-size="58" font-weight="700" letter-spacing="5" filter="url(#softGlow)">SOEURN VISAL</text>
+      <rect x="418" y="168" width="364" height="3" rx="1.5" fill="url(#accent)" />
+      <text x="600" y="211" fill="#C9D1D9" font-size="22" font-weight="500" letter-spacing="8">SOFTWARE DEVELOPER</text>
+      <text x="600" y="247" fill="#8B949E" font-size="14" letter-spacing="4">JAVA  •  SPRING BOOT  •  REACT  •  NEXT.JS</text>
+    </g>
+
+    <path d="M0 358H1200" stroke="url(#accent)" stroke-width="4" />
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="17" stroke="#30363D" stroke-width="2" />
+</svg>
