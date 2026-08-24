@@ -8,7 +8,7 @@
 [![Telegram](https://img.shields.io/badge/TELEGRAM-0d1117?style=for-the-badge&logo=telegram&logoColor=2AABEE)](https://t.me/SoeurnVisal8)
 [![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:visalsoeurn9@gmail.com)
 
-## About me 
+## About me &#x1F60A;
 
 👨‍💻 I'm a **Software Developer** who loves turning complex problems into simple, beautiful solutions.<br />
 🌱 I'm constantly learning **Advanced Microservices**.<br />
@@ -17,7 +17,12 @@
 
 ## Mobile App Developer 📱
 
-I’m currently focused on **research and development in cross-platform mobile applications** for both **Android and iOS**.
+### 🔵 I’m currently focused on **research and development in cross-platform mobile applications** for both **Android and iOS**. 🟣
+
+### Cross-platform
+
+![Flutter](https://img.shields.io/badge/Flutter-2F81F7?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-8250DF?style=flat-square&logo=dart&logoColor=white)
 
 ### Android
 
