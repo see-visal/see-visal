@@ -4,14 +4,11 @@
 
 ### Connect with me 👋
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://www.soeurnvisal.tech)
 [![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/see-visal)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-0d1117?style=for-the-badge&logo=telegram&logoColor=2AABEE)](https://t.me/SoeurnVisal8)
 [![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:visalsoeurn9@gmail.com)
 
-</div>
-
-## About me 😊
+## About me 
 
 - 👨‍💻 I'm a **Software Developer** who loves turning complex problems into simple, beautiful solutions.
 - 🌱 I'm constantly learning **Advanced Microservices**.
@@ -61,24 +58,30 @@
 <br />
 
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Version control</b></summary>
+<br />
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 </details>
 
 ## GitHub stats 📊
 
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=see-visal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&ring_color=58a6ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=see-visal&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=1f2328&icon_color=8250df&ring_color=0969da" />
-  <img height="170" alt="Soeurn Visal's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=see-visal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=bc8cff&ring_color=58a6ff" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=see-visal&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=see-visal&theme=github" />
+  <img height="170" alt="Soeurn Visal's GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=see-visal&theme=github_dark" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=see-visal&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=see-visal&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=1f2328" />
-  <img height="170" alt="Soeurn Visal's most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=see-visal&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=see-visal&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=see-visal&theme=github" />
+  <img height="170" alt="Soeurn Visal's most-used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=see-visal&theme=github_dark" />
 </picture>
 
 <picture>
